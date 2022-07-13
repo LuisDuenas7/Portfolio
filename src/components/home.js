@@ -33,7 +33,7 @@ const Home= ()=>{
 
          </div>
          <div className="box-lowText">
-          <h3 className="tittle-textLow">Im a front end developer. and this is  some of me work.
+          <h3 className="tittle-textLow">Im a front end developer. and this is  some of my work.
                </h3><span className="bar-blink">|</span>
          </div>
         </div>
